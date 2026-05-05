@@ -3,7 +3,7 @@
 Steps to setup streamlit
 
 
-Mac
+## Mac
 
 python3 -m venv .venv
 
@@ -16,7 +16,8 @@ Press Cmd + Shift + P.
     Choose interpreter that includes .venv.
 
 python -m pip install --upgrade pip python -m pip install streamlit python -m pip show streamlit
-Windows
+
+## Windows
 
 py -3.11 -m venv .venv
 
